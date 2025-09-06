@@ -1,0 +1,5 @@
+{
+  "name": "SyncSpace",
+  "description": "An elegant and efficient application for managing and booking meeting rooms within an organization. Features multi-language support (Arabic/English), calendar integration simulation, and a customizable Zen-inspired glassy interface.",
+  "requestFramePermissions": []
+}
